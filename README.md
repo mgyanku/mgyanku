@@ -10,7 +10,7 @@ where I worked with AWS and Python to process data.
 
 - 💭 Currently working on my web scraping research for school (researching Scrapy and BeautifulSoup)
 - 🌱 Currently learning about web scraping.
-- ⭐ Fun fact: I like to listen to jazz when i'm programming!
+- ⭐ Fun fact: I like to listen to jazz when I'm programming!
 
 ### 🛠 Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
