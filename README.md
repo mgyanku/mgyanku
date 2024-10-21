@@ -1,10 +1,16 @@
 # Hello 👋, I'm Miriam!
 
-I'm currently in my senior year of my software engineering working towards my graduation. 
+I'm currently in my senior year of my Software Engineering degree working towards my graduation.
+I have learned about many different areas of IT during my degree, and now I am looking for an
+internship to focus on and gain more experience.
 
-- 💭 Currently working on web scraping research for school (researching Scrapy and BeautifulSoup)
+In the past I've delved into mobile development, big data, web development and data structures & algorithms.
+In my past internship at Accenture I worked as a backend developer at Accenture, 
+where I worked with AWS and Python to process data.
+
+- 💭 Currently working on my web scraping research for school (researching Scrapy and BeautifulSoup)
 - 🌱 Currently learning about web scraping.
-- ⚡ Fun fact: I like to listen to jazz when i'm programming!
+- ⭐ Fun fact: I like to listen to jazz when i'm programming!
 
 ### 🛠 Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -21,10 +27,16 @@ I'm currently in my senior year of my software engineering working towards my gr
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 
 
 ### 🚀 Projects
-(Currently converting gitlab projects to my github)
+(Currently converting gitlab projects to my github)  
 In progress...
 
 ### 🏆 GitHub Stats:
