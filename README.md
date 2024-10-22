@@ -5,7 +5,7 @@ I have learned about many different areas of IT during my degree, and now I am l
 internship to focus on and gain more experience.
 
 In the past I've delved into mobile development, big data, web development and data structures & algorithms.
-In my past internship at Accenture I worked as a backend developer at Accenture, 
+In my past internship at Accenture I worked as a backend developer, 
 where I worked with AWS and Python to process data.
 
 - 💭 Currently working on my web scraping research for school (researching Scrapy and BeautifulSoup)
