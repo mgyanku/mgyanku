@@ -10,7 +10,7 @@ where I worked with AWS and Python to process data.
 
 - 💭 Currently working on my web scraping research for school (researching Scrapy and BeautifulSoup)
 - 🌱 Currently learning about web scraping.
-- ⭐ Fun fact: I like to listen to jazz when I'm programming!
+- ⭐ Fun fact: I like to listen to jazz when i'm programming!
 
 ### 🛠 Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -36,11 +36,11 @@ where I worked with AWS and Python to process data.
 
 
 ### 🚀 Projects
-(Currently converting gitlab projects to my github)  
-In progress...
+ [EmergencyExitApp](https://github.com/mgyanku/emergency-exit-app) - Android Kotlin app where I made a prototype for my mobile development class.
+
 
 ### 🏆 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mgyanku&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mgyanku&show_icons=true&theme=dark)
 
 ### 🌟 Connect with me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myanku/)
