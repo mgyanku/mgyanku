@@ -37,7 +37,7 @@ where I worked with AWS and Python to process data.
 
 ### 🚀 Projects
  [EmergencyExitApp](https://github.com/mgyanku/emergency-exit-app) - Android Kotlin app where I made a prototype for my mobile development class.  
-(Still working on migrating project from private server to github.)
+(Still working on migrating projects from private server to github.)
 
 
 ### 🏆 GitHub Stats:
