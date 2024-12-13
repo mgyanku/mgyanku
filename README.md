@@ -8,8 +8,8 @@ In the past I've delved into mobile development, big data, web development and d
 In my past internship at Accenture I worked as a backend developer, 
 where I worked with AWS and Python to process data.
 
-- 💭 Currently working on my web scraping research for school (researching Scrapy and BeautifulSoup)
-- 🌱 Currently learning about web scraping.
+- 💭 Currently working on a sport facility booking website.
+- 🌱 Currently learning about Angular.
 - ⭐ Fun fact: I like to listen to jazz when i'm programming!
 
 ### 🛠 Languages:
@@ -37,6 +37,7 @@ where I worked with AWS and Python to process data.
 
 ### 🚀 Projects
  [EmergencyExitApp](https://github.com/mgyanku/emergency-exit-app) - Android Kotlin app where I made a prototype for my mobile development class.
+(Still working on migrating project from private server to github.)
 
 
 ### 🏆 GitHub Stats:
