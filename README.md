@@ -1,15 +1,12 @@
 # Hello 👋, I'm Miriam!
 
 I'm currently in my senior year of my Software Engineering degree working towards my graduation.
-I have learned about many different areas of IT during my degree, and now I am looking for an
-internship to focus on and gain more experience.
 
 In the past I've delved into mobile development, big data, web development and data structures & algorithms.
 In my past internship at Accenture I worked as a backend developer, 
 where I worked with AWS and Python to process data.
 
-- 💭 Currently working on a sport facility booking website.
-- 🌱 Currently learning about Angular.
+- 🌱 Currently an intern at ING as Front-end Developer.
 - ⭐ Fun fact: I like to listen to jazz when i'm programming!
 
 ### 🛠 Languages:
