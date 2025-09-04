@@ -1,13 +1,10 @@
-# Hello 👋, I'm Miriam!
+I recently graduated with a degree in Software Engineering 🎓.
 
-I'm currently in my senior year of my Software Engineering degree working towards my graduation.
+In the past I’ve worked on mobile development, big data, web development, and data structures & algorithms.
+During my internship at Accenture, I worked as a backend developer using AWS and Python to process data.
+Most recently, I was an intern at ING as a Front-end Developer, where I worked with Lit, JavaScript, and modern front-end tools.
 
-In the past I've delved into mobile development, big data, web development and data structures & algorithms.
-In my past internship at Accenture I worked as a backend developer, 
-where I worked with AWS and Python to process data.
-
-- 🌱 Currently an intern at ING as Front-end Developer.
-- ⭐ Fun fact: I like to listen to jazz when i'm programming!
+I’m now looking for opportunities as a Software Engineer to apply my skills and keep growing. 🚀
 
 ### 🛠 Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
