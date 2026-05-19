@@ -4,7 +4,7 @@ I have experience building scalable backend systems using Python and AWS, includ
 
 During my graduation internship, I worked on frontend development with modern web technologies and implemented automated tests with a focus on accessibility, ensuring applications were usable for a wider range of users.
 
-Currently, I’m working in a full-stack role where I contribute across the entire development process — from backend services to frontend interfaces, including testing and deployment. I work with technologies such as Java, Spring Boot, Angular, and JavaScript.
+Currently, I’m working in a full-stack role where I contribute across the entire development process from backend services to frontend interfaces, including testing and deployment. I work with technologies such as Java, Spring Boot, Angular, and JavaScript.
 
 I enjoy building end-to-end solutions and improving both system architecture and user experience. I’m currently focused on growing as a Software Engineer and working on impactful, well-designed software systems.
 
