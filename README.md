@@ -1,10 +1,15 @@
-I recently graduated with a degree in Software Engineering 🎓.
+In the past, I’ve worked across mobile development, big data, web development, and data structures & algorithms.
 
-In the past I’ve worked on mobile development, big data, web development, and data structures & algorithms.
-During my internship at Accenture, I worked as a backend developer using AWS and Python to process data.
-Most recently, I was an intern at ING as a Front-end Developer, where I worked with Lit, JavaScript, and modern front-end tools.
+I have experience building scalable backend systems using Python and AWS, including data processing pipelines and cloud-based architectures. I’ve worked on integrating solutions for storage, authentication, and deployment with a strong focus on performance and reliability.
 
-I’m now looking for opportunities as a Software Engineer to apply my skills and keep growing. 🚀
+During my graduation internship, I worked on frontend development with modern web technologies and implemented automated tests with a focus on accessibility, ensuring applications were usable for a wider range of users.
+
+Currently, I’m working in a full-stack role where I contribute across the entire development process — from backend services to frontend interfaces, including testing and deployment. I work with technologies such as Java, Spring Boot, Angular, and JavaScript.
+
+I enjoy building end-to-end solutions and improving both system architecture and user experience. I’m currently focused on growing as a Software Engineer and working on impactful, well-designed software systems.
+
+This portfolio also reflects projects I build in my free time and my personal interests in software development. 🚀
+
 
 ### 🛠 Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
