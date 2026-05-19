@@ -28,9 +28,6 @@ This portfolio also reflects projects I build in my free time and my personal in
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### 🏆 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mgyanku&show_icons=true&theme=dark)
-
 ### 🌟 Connect with me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myanku/)
 
